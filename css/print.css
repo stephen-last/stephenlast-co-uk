@@ -1,0 +1,16 @@
+
+header {
+  margin: 0 0 2em 0;
+  padding: 0 0 2em 0;
+  border-bottom: 2px solid #ddd;
+}
+header .contact ul li.phone-number:before {
+  content: "07743 848686"
+}
+header .contact ul li.email:before {
+  content: "stephen.last@gmail.com"
+}
+
+main .lists {
+  border-left: 2px solid #ddd;
+}
